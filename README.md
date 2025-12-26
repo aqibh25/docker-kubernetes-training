@@ -2,7 +2,8 @@
 
 ## Overview
 
-This repository documents my learning and hands-on practice while completing the Udemy course  
+This repository documents my learning and hands-on practice while completing the Udemy course. 
+Course link https://www.udemy.com/course/docker-and-kubernetes-the-complete-guide/
 **Docker and Kubernetes: The Complete Guide**.
 
 The goal of this repository is to demonstrate:
