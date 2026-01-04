@@ -70,4 +70,3 @@ This directory contains:
 
 Quiz results for this section are available here:  
 `/quizzes/section-4-making-real-projects-with-docker/`
-"""

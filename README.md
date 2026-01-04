@@ -4,6 +4,7 @@
 
 This repository documents my learning and hands-on practice while completing the Udemy course. 
 Course link https://www.udemy.com/course/docker-and-kubernetes-the-complete-guide/
+
 **Docker and Kubernetes: The Complete Guide**.
 
 The goal of this repository is to demonstrate:
@@ -68,7 +69,7 @@ The goal of this repository is to demonstrate:
 
 ### CI / CD and Cloud Deployment
 - Build a CI + CD pipeline from scratch
-- Integrate GitHub with Travis CI
+- Integrate with GitHub actions 
 - Automatically deploy code on GitHub pushes
 - Deploy containerized applications to AWS
 
